@@ -1,3 +1,5 @@
-# NLP-Small-Projects
+# NLP-Small-Projects Neural Networks
 
-Neural network to classify four languages
+Classify four languages
+Identify fake news articles
+Translate English to Italian
