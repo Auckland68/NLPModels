@@ -1,5 +1,6 @@
 # NLP-Projects
 
+* Topic Modelling with BERTopic
 * Language classification - classify four languages
 * Fake news articles classification
 * Financial tweets analysis
