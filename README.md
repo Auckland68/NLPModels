@@ -8,4 +8,4 @@
 * Language translation - English to Italian
 * Sentiment Analysis of WhatsApp Messages
 
-Note: See MSc Management Project for larger sentiment analysis and topic modelling project
+Note: See MSc Management Project for a larger sentiment analysis and topic modelling project
